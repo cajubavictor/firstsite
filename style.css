@@ -1,0 +1,95 @@
+body{
+
+    background: #f7f7f7;
+    font-family: Verdana;
+    max-width:  500px ;
+    margin: auto;
+}
+
+
+
+#title, .subtitle, .post_title, .contact_title{
+
+
+    color:  #505050;
+    
+ 
+}
+
+#tittle{
+  
+    font-size: 40px;
+    text-transform: uppercase ;
+     
+}
+
+a{
+    text-decoration: line-through;
+    color: #505050;
+
+}
+
+
+.post_title{
+
+    font-size: 16px;
+    font-style: italic;
+     margin: 0;
+    margin-bottom: 15px;
+
+   
+}  
+
+.post{
+    background: white;
+    padding: 15px ; 
+    border: 1px solid #505050;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.post_content{   
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize ;
+    text-align: justify;
+ }
+
+.post_image{
+    margin-bottom: 15px ;
+    width: 100%;
+
+}
+
+/*section{
+
+    background: darkgray;
+    padding: 5px; 
+    border: 1px solid  black;
+    margin: 3px;
+}*/
+ 
+.contact_title{
+    margin: 0;
+    margin-bottom: 15px;
+
+}
+.contato{
+    
+   list-style-type: none; 
+   padding-lef t: 15px; 
+     
+}
+
+.contato li a{
+    text-decoration: none;    
+     
+       
+}
+
+.myfoto{
+    background: white;
+    padding: 2px; 
+    border: 1px solid #505050;
+    border-radius: 50%;
+}
